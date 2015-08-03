@@ -1,0 +1,1 @@
+php-class-keyword-density-check
